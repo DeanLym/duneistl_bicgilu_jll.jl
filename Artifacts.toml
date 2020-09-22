@@ -1,0 +1,104 @@
+[[duneistl_bicgilu_julia]]
+arch = "aarch64"
+git-tree-sha1 = "b887c6bd3b0eb46a1cd444f1b3496d0c0001e519"
+libc = "glibc"
+os = "linux"
+
+    [[duneistl_bicgilu_julia.download]]
+    sha256 = "17d9869a3c5c9690f49f6c2b87127e7fc4a3058b95c4a072cc1c93497d935c1f"
+    url = "https://github.com/DeanLym/duneistl_bicgilu_jll.jl/releases/download/duneistl_bicgilu_julia-v0.1.0+0/duneistl_bicgilu_julia.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[duneistl_bicgilu_julia]]
+arch = "aarch64"
+git-tree-sha1 = "dcfc2b0aad28ed582365562291e0307c3af05d6d"
+libc = "musl"
+os = "linux"
+
+    [[duneistl_bicgilu_julia.download]]
+    sha256 = "cbb4f724bf6f6567481d8d8f20d79d158b2f0f491755bbfe62f82f610f37d38c"
+    url = "https://github.com/DeanLym/duneistl_bicgilu_jll.jl/releases/download/duneistl_bicgilu_julia-v0.1.0+0/duneistl_bicgilu_julia.v0.1.0.aarch64-linux-musl.tar.gz"
+[[duneistl_bicgilu_julia]]
+arch = "armv7l"
+git-tree-sha1 = "edce03a77fae6816b0b21a63ef3858f7b67484d8"
+libc = "glibc"
+os = "linux"
+
+    [[duneistl_bicgilu_julia.download]]
+    sha256 = "83ba3d43046c3e4cfc1ffe24885ec451635609343707c67943d4597b04080f7e"
+    url = "https://github.com/DeanLym/duneistl_bicgilu_jll.jl/releases/download/duneistl_bicgilu_julia-v0.1.0+0/duneistl_bicgilu_julia.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[duneistl_bicgilu_julia]]
+arch = "armv7l"
+git-tree-sha1 = "96adedd1a2baf4886fc591cb94e14dc0149ffd46"
+libc = "musl"
+os = "linux"
+
+    [[duneistl_bicgilu_julia.download]]
+    sha256 = "f9d5f626219e264112944ff792c657291b51b2ee5d30c9c706657f2b83f067ad"
+    url = "https://github.com/DeanLym/duneistl_bicgilu_jll.jl/releases/download/duneistl_bicgilu_julia-v0.1.0+0/duneistl_bicgilu_julia.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[duneistl_bicgilu_julia]]
+arch = "i686"
+git-tree-sha1 = "f407281e9b0914c688e42524efe75dac896b4788"
+libc = "glibc"
+os = "linux"
+
+    [[duneistl_bicgilu_julia.download]]
+    sha256 = "fb0340262cb5b536a77cceedd96ba88b1571c193dbf26ca449ebec75625a7e04"
+    url = "https://github.com/DeanLym/duneistl_bicgilu_jll.jl/releases/download/duneistl_bicgilu_julia-v0.1.0+0/duneistl_bicgilu_julia.v0.1.0.i686-linux-gnu.tar.gz"
+[[duneistl_bicgilu_julia]]
+arch = "i686"
+git-tree-sha1 = "c225d16930553425eaac2b9a1e3a857916e62a40"
+libc = "musl"
+os = "linux"
+
+    [[duneistl_bicgilu_julia.download]]
+    sha256 = "9a4e2978b7b10333b3efa25a6eeb36a716be1c0f7076d9976ceb34159e3f3874"
+    url = "https://github.com/DeanLym/duneistl_bicgilu_jll.jl/releases/download/duneistl_bicgilu_julia-v0.1.0+0/duneistl_bicgilu_julia.v0.1.0.i686-linux-musl.tar.gz"
+[[duneistl_bicgilu_julia]]
+arch = "i686"
+git-tree-sha1 = "d855810dfcbae7dc13f71253733e87b4b2db9c1b"
+os = "windows"
+
+    [[duneistl_bicgilu_julia.download]]
+    sha256 = "7d9e86bbc039906a85876c732cc77f69f49fee58d7e17926ca30a05e5054a4f1"
+    url = "https://github.com/DeanLym/duneistl_bicgilu_jll.jl/releases/download/duneistl_bicgilu_julia-v0.1.0+0/duneistl_bicgilu_julia.v0.1.0.i686-w64-mingw32.tar.gz"
+[[duneistl_bicgilu_julia]]
+arch = "powerpc64le"
+git-tree-sha1 = "4449a07a07637898af2542897f1d2f38afff0d3e"
+libc = "glibc"
+os = "linux"
+
+    [[duneistl_bicgilu_julia.download]]
+    sha256 = "5325fce76bff3b041edb8ae7fc68502fbf26eb7199b6c924a533863f3f4df65b"
+    url = "https://github.com/DeanLym/duneistl_bicgilu_jll.jl/releases/download/duneistl_bicgilu_julia-v0.1.0+0/duneistl_bicgilu_julia.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[duneistl_bicgilu_julia]]
+arch = "x86_64"
+git-tree-sha1 = "08aa6d339cf6d378ca802b340bbc3a5d4d8c5ed9"
+os = "macos"
+
+    [[duneistl_bicgilu_julia.download]]
+    sha256 = "e1c48d343179973e8651d19930aebdddf6ed99eb4b896fe5f314ec9be114b653"
+    url = "https://github.com/DeanLym/duneistl_bicgilu_jll.jl/releases/download/duneistl_bicgilu_julia-v0.1.0+0/duneistl_bicgilu_julia.v0.1.0.x86_64-apple-darwin14.tar.gz"
+[[duneistl_bicgilu_julia]]
+arch = "x86_64"
+git-tree-sha1 = "009c842c61bedc415577d73ea90d2ad78b0b8b5e"
+libc = "glibc"
+os = "linux"
+
+    [[duneistl_bicgilu_julia.download]]
+    sha256 = "d6221767751052ef7fb8dde4559702719b3a721abbb4d0c525992341bb6dd27a"
+    url = "https://github.com/DeanLym/duneistl_bicgilu_jll.jl/releases/download/duneistl_bicgilu_julia-v0.1.0+0/duneistl_bicgilu_julia.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[duneistl_bicgilu_julia]]
+arch = "x86_64"
+git-tree-sha1 = "b1b020d6c1313f4eb3c2286bbbb890b18d00b389"
+os = "freebsd"
+
+    [[duneistl_bicgilu_julia.download]]
+    sha256 = "f943a747bc73959d27ebd5dd6e06bdec184a227f26e0d61383f01a830bc0e5f8"
+    url = "https://github.com/DeanLym/duneistl_bicgilu_jll.jl/releases/download/duneistl_bicgilu_julia-v0.1.0+0/duneistl_bicgilu_julia.v0.1.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[duneistl_bicgilu_julia]]
+arch = "x86_64"
+git-tree-sha1 = "c218b06a7aa9e13536c848bc0ba7ad3f8fb95468"
+os = "windows"
+
+    [[duneistl_bicgilu_julia.download]]
+    sha256 = "b005e32bffd0077c3cf777035020617cd6c69b9209a17abc3414eb8bfbd2c0bf"
+    url = "https://github.com/DeanLym/duneistl_bicgilu_jll.jl/releases/download/duneistl_bicgilu_julia-v0.1.0+0/duneistl_bicgilu_julia.v0.1.0.x86_64-w64-mingw32.tar.gz"
